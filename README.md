@@ -1,2 +1,2 @@
 # Platformer
-Project for summer school
+# Project for summer school
